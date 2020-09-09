@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SAMD21_Base.PrjPcb]
+   Generated File[SAMD21_Base_Layout-RoundHoles.TXT]
+   Generated File[SAMD21_Base_Layout-SlotHoles.TXT]
+   Generated File[SAMD21_Base_Layout.LDP]
+   Generated File[SAMD21_Base_Layout.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 6:18:22 PM On 2020-09-03

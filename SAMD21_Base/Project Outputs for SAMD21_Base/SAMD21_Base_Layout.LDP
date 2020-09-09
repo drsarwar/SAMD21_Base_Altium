@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Saquib\Documents\Research\HRI_US\Altium\SAMD21_base\SAMD21_Base\SAMD21_Base_Layout.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=samd21_base_layout-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=samd21_base_layout-slotholes.txt|DrillLayers=gtl,gbl
